@@ -1,7 +1,5 @@
 # Some photos from my raytracer
 ![](https://github.com/mistaek/raytracer-photos/blob/main/Pictures/scene.png)
-# Primitives
-![](https://github.com/mistaek/raytracer-photos/blob/main/Pictures/primitives.png)
 # Texture and Normal Mapping
 ![](https://github.com/mistaek/raytracer-photos/blob/main/Pictures/texture_mapping3.png)
 ![](https://github.com/mistaek/raytracer-photos/blob/main/Pictures/normal_mapping.png)
